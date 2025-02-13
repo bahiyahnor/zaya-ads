@@ -1,0 +1,7 @@
+name = "zaya-app-ads-worker"
+type = "javascript"
+
+[build]
+command = ""
+upload.format = "service-worker"
+main = "index.js"
